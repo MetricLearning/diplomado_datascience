@@ -1,4 +1,4 @@
-Línea_aérea_Id,Línea_aérea,Alias,IATA,OACI,Sigla_identificación,País,Activa
+Linea_aerea_Id,Linea_aerea,Alias,IATA,OACI,Sigla_identificacion,Pais,Activa
 -1,Unknown,,-,,,,Y
 1,Private flight,,-,,,,Y
 2,135 Airways,,,GNL,GENERAL,United States,N
